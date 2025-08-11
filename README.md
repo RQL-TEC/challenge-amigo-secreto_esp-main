@@ -83,4 +83,4 @@ No se necesita ninguna dependencia ni proceso de instalación.
 
 Proyecto desarrollado por **Luis Enrique Ramos Quispe**.
 
-*   **GitHub:** @RQL-TEC(https://github.com/RQL-TEC)
+*   **GitHub:** [@RQL-TEC](https://github.com/RQL-TEC)
